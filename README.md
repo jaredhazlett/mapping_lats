@@ -23,6 +23,6 @@ Step 3. - Merging
 1. Downloading GeoPandas is required for this step. You'll need to spatially join our Chipotle store locations' latitudes and longitudes onto the tigerline counties. https://geopandas.org/index.html
 
 Step 4. - Analysis
-1. Thanks to the hard work of the authors at this link - we can use Ordinary Least Squares and VIF method to determine if housing prices predict physical Chipotle restaurant locations. Unfortuantely, they're not. We'll need to circle back and pick features that have fewer multicolinearities and redo our analysis. 
-https://ai-ml-analytics.com/multicollinearity-with-ordinary-least-squares/
+1. Thanks to the hard work of the authors at this link - https://ai-ml-analytics.com/multicollinearity-with-ordinary-least-squares/
+we can use Ordinary Least Squares and VIF method to determine if housing prices predict physical Chipotle restaurant locations. Unfortuantely, they don't. We'll need to circle back and pick features that have fewer multicolinearities and redo our analysis. 
 
