@@ -8,7 +8,7 @@ In our case, we're interested in understanding where we'll find Chipotles in Cal
       Thanks to Jeffrey Braun for posting this data on kaggle!
 
 2. Census Buerau API - https://www.census.gov/data/what-is-data-census-gov/guidance-for-data-users/how-to-materials-for-using-the-census-api.html  
-      We'll register for an API token and use requests.get method to download specific data that we're looking for. 
+      We'll register for an API token and use requests.get method to download the specific data that we're looking for. 
 
 3. Tigerline Shape files - https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
       We'll download the tiger line shape files as we'll need to merge our Chipotle stores Lat/Lng with our county shape files to understand where Chipotles are located on the county level.
