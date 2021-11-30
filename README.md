@@ -13,7 +13,7 @@ In our case, we're interested in understanding where we'll find Chipotles in Cal
 3. Tigerline Shape files - https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
       We'll download the tiger line shape files as we'll need to merge our Chipotle stores Lat/Lng with our county shape files to understand where Chipotles are located at the county level.
       
-To reduce the difficulty of wrangling with the Census Bureau API and Tiger Line Shape Files, or just to speed up your process (if time is of the essence), you can download preset data and shape files from the Census Reporter https://censusreporter.org. While knowing how to navigate the API is helpful, the censusreporter expidites this step significantly. 
+To reduce the difficulty of wrangling with the Census Bureau API and Tiger Line Shape Files, or just to speed up your process (if time is of the essence), you can download preset data and shape files from the Census Reporter https://censusreporter.org. While knowing how to navigate the API is helpful, the censusreporter expedites this step significantly. 
       
 Step 2. - Cleaning
 1. The raw data file from the Census Buerau API needs relabeling. We'll look to their helpful documentation on what each column stands for. https://api.census.gov/data/2018/acs/acs5/groups/B25075.html 
