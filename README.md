@@ -1,6 +1,6 @@
 # mapping_lats
 
-Welcome to mapping_lats. This repository demonstrates the use of python, pandas, geopandas, data from the census bureau, and kaggle to try and understand where we're likely to see Chipotle restaurants. This notebook focuses on California counties and their variations in housing prices and the preponderance of Chipotles in those counties.
+Welcome to mapping_lats. This repository demonstrates the use of python, pandas, geopandas, and data from the census bureau and kaggle to understand where we're likely to see Chipotle restaurants. This demonstration focuses on California counties, their variations in housing prices, and the preponderance of Chipotles in those counties.
 
 Step 1. - Look for our datasets. 
 In our case, we're interested in understanding where we'll find Chipotles in California. 
