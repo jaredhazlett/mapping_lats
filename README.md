@@ -4,7 +4,7 @@ Welcome to mapping_lats. This repository demonstrates the use of python, pandas,
 
 Step 1. - Download the datasets. 
 In our case, we're interested in understanding where we'll find Chipotles in California. 
-1. Kaggle Dataset on Chipotle Locations: https://www.kaggle.com/jeffreybraun/chipotle-locations
+1. Kaggle Dataset on Chipotle Locations - https://www.kaggle.com/jeffreybraun/chipotle-locations
       Thanks to Jeffrey Braun for posting this data to kaggle!
 
 2. Census Buerau API - https://www.census.gov/data/what-is-data-census-gov/guidance-for-data-users/how-to-materials-for-using-the-census-api.html  
