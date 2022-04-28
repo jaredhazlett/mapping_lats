@@ -17,7 +17,7 @@ To reduce the difficulty of wrangling with the Census Bureau API and Tiger Line 
       
 Step 2. - Cleaning
 1. The raw data file from the Census Buerau API needs relabeling. We'll look to their helpful documentation on what each column stands for. https://api.census.gov/data/2018/acs/acs5/groups/B25075.html 
-Changing population numbers from our Census Bureau API to fractions of the total will help us better understand of where Chipotles are at the aggregate level. This corrects for counties with very large or very small populations. 
+Changing population numbers from our Census Bureau API to fractions of the total will help us better understand where Chipotles are at the aggregate level. This corrects for counties with very large or very small populations. 
 Additionally, we'll need to clean the tigerline shape files and remove unnecessary categories. 
 Finally, make sure everything is either a string or numeric. Difficulties with merging will occur if the datatypes do not match.
 
